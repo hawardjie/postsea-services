@@ -1,5 +1,7 @@
 # Postsea Services
 
+PostSea owns and maintains this collection of simple, modern, and useful web applications.
+
 List of public-facing services and projects maintained by PostSea.
 
 ## Live Projects
