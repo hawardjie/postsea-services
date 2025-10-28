@@ -187,6 +187,39 @@ h1 {
   line-height: 1.6;
 }
 
+.section-screenshot {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin: 20px 0;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  display: block;
+}
+
+.section-screenshot-half {
+  width: 70%;
+  max-width: 70%;
+  height: auto;
+  border-radius: 12px;
+  margin: 20px 0;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  display: block;
+}
+
+.section-screenshot-30 {
+  width: 30%;
+  max-width: 30%;
+  height: auto;
+  border-radius: 12px;
+  margin: 20px 0;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  display: block;
+}
+
 .footer {
   margin-top: 40px;
   padding: 20px 0;
