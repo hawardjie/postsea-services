@@ -68,11 +68,6 @@ function App() {
           <a href="#tourpet" className="toc-chip">TourPet</a>
         </nav>
       </header>
-      <div className="projects-grid">
-        {projects.map(project => (
-          <ProjectCard key={project.id} project={project} />
-        ))}
-      </div>
       <div className="details">
         <section className="section" id="econoworld">
           <h2>
