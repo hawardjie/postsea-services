@@ -135,6 +135,36 @@ Not just another stock tracker — a comprehensive financial intelligence platfo
 
 ---
 
+## TourPet: Dog lover care and insights, all in one app
+
+A comprehensive web application for dog lovers, providing community dog care services (sitting and walking) alongside an extensive knowledge base covering breeds, behavior, care tips, nutrition, and more.
+
+### Dog Care Services
+
+- Dog Sitting: Professional in-home or overnight care with flexible scheduling
+- Dog Walking: Daily walks with customizable duration (30 or 60 minutes)
+- Easy Booking System: User-friendly booking interface with calendar integration
+- Calendar System: Providers set availability for easy scheduling
+- Communication System: Automated emails connect providers and pet owners
+- Localization Support: Available in multiple languages, including English, French, and Mandarin
+
+### Interactive Tools
+
+- Dog Age Calculator: Convert dog years to human years (accounts for size differences)
+- Calorie Calculator: Determine daily calorie needs based on weight and activity level
+- Body Condition Guide: Visual guide to assess if your dog is at a healthy weight
+- Quick Reference: Vaccination schedules, vet visit frequency, emergency signs
+
+### Comprehensive Knowledge Base
+
+- Dog Breeds Encyclopedia
+- Behavior Guide
+- Care Tips
+- Nutrition Guide
+- FAQ
+
+---
+
 ## Development
 
 This repository uses [Vite](https://vitejs.dev/) and [React](https://react.dev/).
