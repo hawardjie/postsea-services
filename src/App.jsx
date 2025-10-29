@@ -76,7 +76,9 @@ function App() {
           <p>
             A comprehensive web application for visualizing global economic data from FRED, World Bank, United Nations, IMF, Central Banks & National Agencies, OECD & Eurostat — featuring 800,000+ economic time series from 100+ sources.
           </p>
-          <img src="/images/econoWorld.png" alt="EconoWorld Interactive Data Explorer showing interest rates across multiple countries" className="section-screenshot-half" />
+          <a href="https://econo.world" target="_blank" rel="noopener noreferrer">
+            <img src="/images/econoWorld.png" alt="EconoWorld Interactive Data Explorer showing interest rates across multiple countries" className="section-screenshot-half" />
+          </a>
           <h3>Data categories</h3>
           <ul>
             <li>Money, Banking & Finance: Interest rates, monetary aggregates, financial market indicators (SOFR, AMERIBOR, SONIA, central bank rates)</li>
@@ -110,7 +112,9 @@ function App() {
           <p>
             A modern live aircraft tracker for US airspace. Monitor thousands of flights in real time with updates every 15 seconds, interactive maps, altitude-based color coding, and detailed flight information.
           </p>
-          <img src="/images/flightinfoToday.png" alt="Flight Tracker real-time aircraft monitoring dashboard showing live flights over US airspace" className="section-screenshot-half" />
+          <a href="https://flightinfo.today" target="_blank" rel="noopener noreferrer">
+            <img src="/images/flightinfoToday.png" alt="Flight Tracker real-time aircraft monitoring dashboard showing live flights over US airspace" className="section-screenshot-half" />
+          </a>
           <h3>Real-time tracking</h3>
           <ul>
             <li>Live updates every 15 seconds (configurable 15–60s)</li>
@@ -144,7 +148,9 @@ function App() {
           <p>
             A real-time dashboard for monitoring car parking, bike, and scooter sharing systems using GBFS data across multiple operators and cities.
           </p>
-          <img src="/images/sharingGuru.png" alt="Sharing Guru real-time dashboard showing bike and scooter share availability across multiple cities" className="section-screenshot-half" />
+          <a href="https://sharing.guru" target="_blank" rel="noopener noreferrer">
+            <img src="/images/sharingGuru.png" alt="Sharing Guru real-time dashboard showing bike and scooter share availability across multiple cities" className="section-screenshot-half" />
+          </a>
           <h3>Features</h3>
           <ul>
             <li>Real-time availability updates every 30 seconds</li>
@@ -165,7 +171,9 @@ function App() {
           <p>
             A financial intelligence platform combining real-time market data, advanced technical analysis, smart notifications, and a modern UI for traders and investors.
           </p>
-          <img src="/images/stockpriceWatch.png" alt="Stock Price Watch financial intelligence platform showing real-time market data and technical analysis" className="section-screenshot-30" />
+          <a href="https://stockprice.watch" target="_blank" rel="noopener noreferrer">
+            <img src="/images/stockpriceWatch.png" alt="Stock Price Watch financial intelligence platform showing real-time market data and technical analysis" className="section-screenshot-30" />
+          </a>
           <h3>Key highlights</h3>
           <ul>
             <li>Zero setup; no API keys for core features</li>
@@ -204,7 +212,9 @@ function App() {
           <p>
             A comprehensive web application for dog lovers, providing community dog care services (sitting and walking) alongside an extensive knowledge base covering breeds, behavior, care tips, nutrition, and more.
           </p>
-          <img src="/images/tourPet.png" alt="TourPet app showing dog care services, interactive tools, and comprehensive knowledge base for dog lovers" className="section-screenshot-half" />
+          <a href="https://tour.pet" target="_blank" rel="noopener noreferrer">
+            <img src="/images/tourPet.png" alt="TourPet app showing dog care services, interactive tools, and comprehensive knowledge base for dog lovers" className="section-screenshot-half" />
+          </a>
           <h3>Dog Care Services</h3>
           <ul>
             <li>Dog Sitting: Professional in-home or overnight care with flexible scheduling</li>
