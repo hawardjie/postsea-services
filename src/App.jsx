@@ -35,6 +35,13 @@ const projects = [
     description: 'Dog lover care and insights, all in one app',
     url: 'https://tour.pet',
     domain: 'tour.pet'
+  },
+  {
+    id: 6,
+    title: 'AI Hub',
+    description: 'Enterprise AI Integration with Full API Support',
+    url: 'https://aihub.mom',
+    domain: 'aihub.mom'
   }
 ]
 
@@ -238,6 +245,27 @@ function App() {
             <li>Care Tips</li>
             <li>Nutrition Guide</li>
             <li>FAQ</li>
+          </ul>
+        </section>
+
+        <section className="section" id="ai-hub">
+          <h2>
+            <a href="https://aihub.mom" target="_blank" rel="noopener noreferrer">AI Hub — Enterprise AI Integration with Full API Support</a>
+          </h2>
+          <p>
+            AI Hub mom is the all-in-one platform that brings your AI tools, infrastructure, and teams together. Instead of juggling vendors and scattered dashboards, you get a single, trustworthy view of how AI drives your product—what it delivers, what it costs, and where to improve. With sensible guardrails and clear insights, product teams move faster while security and finance stay confidently in control.
+          </p>
+          <a href="https://aihub.mom" target="_blank" rel="noopener noreferrer">
+            <img src="/images/aiHub.png" alt="Control, monitor, and optimize your entire AI infrastructure from a single dashboard. Track usage, manage billing, and deploy with confidence" className="section-screenshot-half" />
+          </a>
+          <h3>Features</h3>
+          <ul>
+            <li>Unified AI tool management: Connect and control tools like ChatGPT, Claude, and Google Gemini from one place</li>
+            <li>Real-time observatory: See usage, performance, and cost trends across tools in real time</li>
+            <li>Smart billing: Track spend by tool and team; transparent usage-based pricing</li>
+            <li>Infrastructure management: Deploy and manage AI infra on AWS, Vercel, or your cloud</li>
+            <li>One-click deployments: Ship updates instantly with built-in CI/CD pipelines</li>
+            <li>Enterprise security: access, audit logs, and SOC 2–friendly practices</li>
           </ul>
         </section>
       </div>
