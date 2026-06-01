@@ -6,10 +6,38 @@ List of public-facing services and projects maintained by PostSea.
 
 ## Live Projects
 
+- [Food and Me — Your Personal Food Companion](https://foodandme.ai)
 - [EconoWorld — Visualizing Economic Data Insights](https://econo.world)
 - [Flight Tracker — Real-time Aircraft Monitoring (US Airspace)](https://flightinfo.today)
 - [Sharing Guru — Live Car Parking, Bike, and Scooter Share Tracking](https://sharing.guru)
 - [Stock Price Watch — Wall Street analytics for everyone](https://stockprice.watch)
+
+---
+
+## Food and Me — Your Personal Food Companion
+
+Snap. Discover. Enjoy. Food and Me turns the ingredients you already have into personalized meal ideas. Photograph what's in your kitchen and get tailored recipe recommendations, addressing the everyday challenges of ingredient waste, meal planning uncertainty, and tedious nutrition logging.
+
+### Smart Ingredient Recognition
+
+- AI-powered photo analysis that identifies foods in your kitchen automatically
+- Turn a quick snapshot into a list of usable ingredients
+
+### Personalized Recipes
+
+- Recipe suggestions based on identified ingredients and personal preferences
+- Dietary customization: set allergies, dietary restrictions, and preferences for tailored results
+- Recipe bookmarking: save favorite recipes for quick retrieval
+
+### Nutrition Tracking
+
+- Monitor daily calories, macros, and nutritional content
+- Reduce tedious manual logging
+
+### Community
+
+- Social sharing: share your creations and discover meals from others
+- Free core features, with a premium tier in development
 
 ---
 

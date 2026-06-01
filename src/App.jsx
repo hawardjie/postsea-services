@@ -2,6 +2,13 @@ import './App.css'
 
 const projects = [
   {
+    id: 7,
+    title: 'Food and Me',
+    description: 'Your Personal Food Companion',
+    url: 'https://foodandme.ai',
+    domain: 'foodandme.ai'
+  },
+  {
     id: 1,
     title: 'EconoWorld',
     description: 'Visualizing Economic Data Insights',
@@ -66,8 +73,9 @@ function App() {
     <div className="container">
       <header className="hero">
         <h1>PostSea Services</h1>
-        <p className="subtitle">Discover Our Exclusive Suite: Proprietary, Curated Modern Web Applications</p>
+        <p className="subtitle">Discover Our Exclusive Suite: Proprietary, Curated Modern Applications</p>
         <nav className="toc" aria-label="Table of contents">
+          <a href="#food-and-me" className="toc-chip">Food and Me</a>
           <a href="#econoworld" className="toc-chip">EconoWorld</a>
           <a href="#flight-tracker" className="toc-chip">Flight Tracker</a>
           <a href="#sharing-guru" className="toc-chip">Sharing Guru</a>
@@ -76,6 +84,39 @@ function App() {
         </nav>
       </header>
       <div className="details">
+        <section className="section" id="food-and-me">
+          <h2>
+            <a href="https://foodandme.ai" target="_blank" rel="noopener noreferrer">Food and Me — Your Personal Food Companion</a>
+          </h2>
+          <p>
+            Snap. Discover. Enjoy. Food and Me turns the ingredients you already have into personalized meal ideas. Photograph what's in your kitchen and get tailored recipe recommendations — tackling ingredient waste, meal planning uncertainty, and tedious nutrition logging.
+          </p>
+          <a href="https://foodandme.ai" target="_blank" rel="noopener noreferrer">
+            <img src="/images/foodAndMe.png" alt="Food and Me app showing AI ingredient recognition and personalized recipe suggestions from a kitchen photo" className="section-screenshot-half" />
+          </a>
+          <h3>Smart Ingredient Recognition</h3>
+          <ul>
+            <li>AI-powered photo analysis identifies foods in your kitchen automatically</li>
+            <li>Turn a quick snapshot into a list of usable ingredients</li>
+          </ul>
+          <h3>Personalized Recipes</h3>
+          <ul>
+            <li>Recipe suggestions based on identified ingredients and personal preferences</li>
+            <li>Dietary customization: set allergies, dietary restrictions, and preferences</li>
+            <li>Recipe bookmarking: save favorite recipes for quick retrieval</li>
+          </ul>
+          <h3>Nutrition Tracking</h3>
+          <ul>
+            <li>Monitor daily calories, macros, and nutritional content</li>
+            <li>Reduce tedious manual logging</li>
+          </ul>
+          <h3>Community</h3>
+          <ul>
+            <li>Social sharing: share your creations and discover meals from others</li>
+            <li>Free core features, with a premium tier in development</li>
+          </ul>
+        </section>
+
         <section className="section" id="econoworld">
           <h2>
             <a href="https://econo.world" target="_blank" rel="noopener noreferrer">EconoWorld — Visualizing Economic Data Insights</a>
