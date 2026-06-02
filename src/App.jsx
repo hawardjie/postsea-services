@@ -10,7 +10,7 @@ const projects = [
   },
   {
     id: 8,
-    title: 'file.mba',
+    title: 'File Sharing',
     description: 'Share Files Across Social Media',
     url: 'https://file.mba',
     domain: 'file.mba'
@@ -83,7 +83,7 @@ function App() {
         <p className="subtitle">Discover Our Exclusive Suite: Proprietary, Curated Modern Applications</p>
         <nav className="toc" aria-label="Table of contents">
           <a href="#food-and-me" className="toc-chip">Food and Me</a>
-          <a href="#file-mba" className="toc-chip">file.mba</a>
+          <a href="#file-sharing" className="toc-chip">File Sharing</a>
           <a href="#econoworld" className="toc-chip">EconoWorld</a>
           <a href="#flight-tracker" className="toc-chip">Flight Tracker</a>
           <a href="#sharing-guru" className="toc-chip">Sharing Guru</a>
@@ -125,15 +125,15 @@ function App() {
           </ul>
         </section>
 
-        <section className="section" id="file-mba">
+        <section className="section" id="file-sharing">
           <h2>
-            <a href="https://file.mba" target="_blank" rel="noopener noreferrer">file.mba — Share Files Across Social Media</a>
+            <a href="https://file.mba" target="_blank" rel="noopener noreferrer">File Sharing — Share Files Across Social Media</a>
           </h2>
           <p>
             A cloud-based file sharing platform that lets you upload, organize, and share your files seamlessly. Generate shareable links in seconds and distribute files across social networks and other platforms — without technical complexity.
           </p>
           <a href="https://file.mba" target="_blank" rel="noopener noreferrer">
-            <img src="/images/fileMba.png" alt="file.mba app showing drag-and-drop file uploads and instant shareable link generation for social media" className="section-screenshot-half" />
+            <img src="/images/fileMba.png" alt="File Sharing app showing drag-and-drop file uploads and instant shareable link generation for social media" className="section-screenshot-half" />
           </a>
           <h3>File Management</h3>
           <ul>

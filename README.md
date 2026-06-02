@@ -7,7 +7,7 @@ List of public-facing services and projects maintained by PostSea.
 ## Live Projects
 
 - [Food and Me — Your Personal Food Companion](https://foodandme.ai)
-- [file.mba — Share Files Across Social Media](https://file.mba)
+- [File Sharing — Share Files Across Social Media](https://file.mba)
 - [EconoWorld — Visualizing Economic Data Insights](https://econo.world)
 - [Flight Tracker — Real-time Aircraft Monitoring (US Airspace)](https://flightinfo.today)
 - [Sharing Guru — Live Car Parking, Bike, and Scooter Share Tracking](https://sharing.guru)
@@ -42,7 +42,7 @@ Snap. Discover. Enjoy. Food and Me turns the ingredients you already have into p
 
 ---
 
-## file.mba — Share Files Across Social Media
+## File Sharing — Share Files Across Social Media
 
 A cloud-based file sharing platform that lets you upload, organize, and share your files seamlessly. Generate shareable links in seconds and distribute files across social networks and other platforms — without technical complexity.
 
