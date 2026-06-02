@@ -209,7 +209,7 @@ function App() {
             <a href="https://myhome.homes" target="_blank" rel="noopener noreferrer">Home Maintenance — Home Maintenance Made Simple</a>
           </h2>
           <p>
-            A digital platform that connects homeowners with vetted local handymen. Submit repair requests, schedule appointments, track job progress, and pay securely — all from a single interface. Trusted by 10,000+ homeowners.
+            A digital platform that connects homeowners with vetted local handymen. Submit repair requests, schedule appointments, track job progress, and pay securely — all from a single interface.
           </p>
           <a href="https://myhome.homes" target="_blank" rel="noopener noreferrer">
             <img src="/images/myHome.png" alt="Home Maintenance platform connecting homeowners with vetted local handymen for repair requests, scheduling, and secure payments" className="section-screenshot-half" />

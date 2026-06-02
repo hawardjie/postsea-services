@@ -104,7 +104,7 @@ A comprehensive web application for visualizing global economic data from FRED (
 
 ## Home Maintenance — Home Maintenance Made Simple
 
-A digital platform that connects homeowners with vetted local handymen. Submit repair requests, schedule appointments, track job progress, and pay securely — all from a single interface. Trusted by 10,000+ homeowners.
+A digital platform that connects homeowners with vetted local handymen. Submit repair requests, schedule appointments, track job progress, and pay securely — all from a single interface.
 
 ### For Homeowners
 
