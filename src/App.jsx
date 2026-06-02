@@ -9,6 +9,13 @@ const projects = [
     domain: 'foodandme.ai'
   },
   {
+    id: 8,
+    title: 'file.mba',
+    description: 'Share Files Across Social Media',
+    url: 'https://file.mba',
+    domain: 'file.mba'
+  },
+  {
     id: 1,
     title: 'EconoWorld',
     description: 'Visualizing Economic Data Insights',
@@ -76,6 +83,7 @@ function App() {
         <p className="subtitle">Discover Our Exclusive Suite: Proprietary, Curated Modern Applications</p>
         <nav className="toc" aria-label="Table of contents">
           <a href="#food-and-me" className="toc-chip">Food and Me</a>
+          <a href="#file-mba" className="toc-chip">file.mba</a>
           <a href="#econoworld" className="toc-chip">EconoWorld</a>
           <a href="#flight-tracker" className="toc-chip">Flight Tracker</a>
           <a href="#sharing-guru" className="toc-chip">Sharing Guru</a>
@@ -114,6 +122,41 @@ function App() {
           <ul>
             <li>Social sharing: share your creations and discover meals from others</li>
             <li>Free core features, with a premium tier in development</li>
+          </ul>
+        </section>
+
+        <section className="section" id="file-mba">
+          <h2>
+            <a href="https://file.mba" target="_blank" rel="noopener noreferrer">file.mba — Share Files Across Social Media</a>
+          </h2>
+          <p>
+            A cloud-based file sharing platform that lets you upload, organize, and share your files seamlessly. Generate shareable links in seconds and distribute files across social networks and other platforms — without technical complexity.
+          </p>
+          <a href="https://file.mba" target="_blank" rel="noopener noreferrer">
+            <img src="/images/fileMba.png" alt="file.mba app showing drag-and-drop file uploads and instant shareable link generation for social media" className="section-screenshot-half" />
+          </a>
+          <h3>File Management</h3>
+          <ul>
+            <li>Drag-and-drop uploading supporting files up to 2GB</li>
+            <li>Compatible with images, documents, videos, and various file types</li>
+            <li>Folder and subfolder organization capabilities</li>
+          </ul>
+          <h3>Sharing Capabilities</h3>
+          <ul>
+            <li>Rapid shareable link generation for multiple platforms</li>
+            <li>Optional password protection on shared files</li>
+            <li>Customizable expiration dates for access control</li>
+            <li>Optimized for Twitter, Facebook, LinkedIn, and similar networks</li>
+          </ul>
+          <h3>Security</h3>
+          <ul>
+            <li>OAuth authentication via Google or Microsoft accounts</li>
+            <li>Password-protected sharing options</li>
+          </ul>
+          <h3>Performance</h3>
+          <ul>
+            <li>Quick file uploads with instant link generation</li>
+            <li>Minimal processing delays</li>
           </ul>
         </section>
 
