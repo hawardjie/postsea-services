@@ -9,6 +9,7 @@ List of public-facing services and projects maintained by PostSea.
 - [Food and Me — Your Personal Food Companion](https://foodandme.ai)
 - [File Sharing — Share Files Across Social Media](https://file.mba)
 - [EconoWorld — Visualizing Economic Data Insights](https://econo.world)
+- [Home Maintenance — Home Maintenance Made Simple](https://myhome.homes)
 - [Flight Tracker — Real-time Aircraft Monitoring (US Airspace)](https://flightinfo.today)
 - [Sharing Guru — Live Car Parking, Bike, and Scooter Share Tracking](https://sharing.guru)
 - [Stock Price Watch — Wall Street analytics for everyone](https://stockprice.watch)
@@ -98,6 +99,28 @@ A comprehensive web application for visualizing global economic data from FRED (
 - Dark mode support: Automatic dark/light theme
 - Robust error handling with retry capabilities
 - Skeleton loading states for smoother UX
+
+---
+
+## Home Maintenance — Home Maintenance Made Simple
+
+A digital platform that connects homeowners with vetted local handymen. Submit repair requests, schedule appointments, track job progress, and pay securely — all from a single interface. Trusted by 10,000+ homeowners.
+
+### For Homeowners
+
+- Easy request submission: snap a photo, describe your issue, and submit in under a minute
+- Flexible scheduling: book appointments with reminders to prevent missed visits
+- Transparent pricing: upfront estimates with secure online payment options
+- Vetted professionals: all handymen are background-checked and insured
+- Honest reviews: read customer feedback to find the right service provider
+- Multiple properties: manage maintenance across all your properties from one dashboard
+
+### For Handymen
+
+- Local lead generation and job connections
+- Schedule management tools
+- Digital invoicing capabilities
+- Expense tracking functionality
 
 ---
 

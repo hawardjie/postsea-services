@@ -23,6 +23,13 @@ const projects = [
     domain: 'econo.world'
   },
   {
+    id: 9,
+    title: 'Home Maintenance',
+    description: 'Home Maintenance Made Simple',
+    url: 'https://myhome.homes',
+    domain: 'myhome.homes'
+  },
+  {
     id: 2,
     title: 'Flight Tracker',
     description: 'Real-time Aircraft Monitoring (US Airspace)',
@@ -85,6 +92,7 @@ function App() {
           <a href="#food-and-me" className="toc-chip">Food and Me</a>
           <a href="#file-sharing" className="toc-chip">File Sharing</a>
           <a href="#econoworld" className="toc-chip">EconoWorld</a>
+          <a href="#home-maintenance" className="toc-chip">Home Maintenance</a>
           <a href="#flight-tracker" className="toc-chip">Flight Tracker</a>
           <a href="#sharing-guru" className="toc-chip">Sharing Guru</a>
           <a href="#stock-price-watch" className="toc-chip">Stock Price Watch</a>
@@ -193,6 +201,34 @@ function App() {
             <li>Automatic dark/light theme</li>
             <li>Robust error handling with retries</li>
             <li>Skeleton loading states</li>
+          </ul>
+        </section>
+
+        <section className="section" id="home-maintenance">
+          <h2>
+            <a href="https://myhome.homes" target="_blank" rel="noopener noreferrer">Home Maintenance — Home Maintenance Made Simple</a>
+          </h2>
+          <p>
+            A digital platform that connects homeowners with vetted local handymen. Submit repair requests, schedule appointments, track job progress, and pay securely — all from a single interface. Trusted by 10,000+ homeowners.
+          </p>
+          <a href="https://myhome.homes" target="_blank" rel="noopener noreferrer">
+            <img src="/images/myHome.png" alt="Home Maintenance platform connecting homeowners with vetted local handymen for repair requests, scheduling, and secure payments" className="section-screenshot-half" />
+          </a>
+          <h3>For Homeowners</h3>
+          <ul>
+            <li>Easy request submission: snap a photo, describe your issue, and submit in under a minute</li>
+            <li>Flexible scheduling: book appointments with reminders to prevent missed visits</li>
+            <li>Transparent pricing: upfront estimates with secure online payment options</li>
+            <li>Vetted professionals: all handymen are background-checked and insured</li>
+            <li>Honest reviews: read customer feedback to find the right service provider</li>
+            <li>Multiple properties: manage maintenance across all your properties from one dashboard</li>
+          </ul>
+          <h3>For Handymen</h3>
+          <ul>
+            <li>Local lead generation and job connections</li>
+            <li>Schedule management tools</li>
+            <li>Digital invoicing capabilities</li>
+            <li>Expense tracking functionality</li>
           </ul>
         </section>
 
