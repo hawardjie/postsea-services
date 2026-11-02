@@ -140,3 +140,9 @@ vite.config.ts.timestamp-*
 
 # Pre-render build step
 dist-ssr
+
+# macOS
+.DS_Store
+
+# Source logo export pack (site uses the copies in public/)
+PostSea-Simple-Wave-Dragon-Pack/
