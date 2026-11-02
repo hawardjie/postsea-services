@@ -86,6 +86,7 @@ function App() {
   return (
     <div className="container">
       <header className="hero">
+        <img src="/postsea-logo.png" alt="PostSea logo" className="hero-logo" width="88" height="88" />
         <h1>PostSea Services</h1>
         <p className="subtitle">Discover Our Exclusive Suite: Proprietary, Curated Modern Applications</p>
         <nav className="toc" aria-label="Table of contents">

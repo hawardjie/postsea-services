@@ -89,6 +89,13 @@ h1 {
   padding: 20px;
 }
 
+.hero-logo {
+  display: block;
+  width: 88px;
+  height: 88px;
+  margin: 0 auto 8px;
+}
+
 .subtitle {
   color: #475569;
   font-size: 1rem;
