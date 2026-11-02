@@ -1,4 +1,5 @@
 import './App.css'
+import { SiteFooter } from './Legal.jsx'
 
 const projects = [
   {
@@ -390,9 +391,7 @@ function App() {
           </ul>
         </section>
       </div>
-      <footer className="footer" role="contentinfo">
-        <p>© {year} PostSea. All rights reserved.</p>
-      </footer>
+      <SiteFooter year={year} />
     </div>
   )
 }
